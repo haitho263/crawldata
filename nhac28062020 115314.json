@@ -1,0 +1,222 @@
+[
+    {
+        "id": 1,
+        "name": "Từ Chối Nhẹ Nhàng Thôi",
+        "country": "VN",
+        "link": "https://data25.chiasenhac.com/downloads/2096/4/2095589-13bb6656/128/Tu%20Choi%20Nhe%20Nhang%20Thoi%20-%20Bich%20Phuong_%20Ph.mp3",
+        "image": "https://data.chiasenhac.com/data/cover/123/122489.jpg",
+        "singer": "Bích Phương; Phúc Du",
+        "composer": "Tiên Cookie, Phạm Thanh Hà",
+        "album": "từ chối nhẹ nhàng thôi (Single)",
+        "release_year": "2020"
+    },
+    {
+        "id": 2,
+        "name": "Em Không Sai Chúng Ta Sai",
+        "country": "VN",
+        "link": "https://data25.chiasenhac.com/downloads/2085/4/2084204-269ba905/128/Em%20Khong%20Sai%20Chung%20Ta%20Sai%20-%20Erik.mp3",
+        "image": "https://data.chiasenhac.com/data/cover/121/120248.jpg",
+        "singer": "Erik",
+        "composer": "Nguyễn Phúc Thiện",
+        "album": "Em Không Sai Chúng Ta Sai (Single)",
+        "release_year": "2020"
+    },
+    {
+        "id": 3,
+        "name": "Một Cú Lừa",
+        "country": "VN",
+        "link": "https://data25.chiasenhac.com/downloads/2092/4/2091363-4965441e/128/Mot%20Cu%20Lua%20-%20Bich%20Phuong.mp3",
+        "image": "https://data.chiasenhac.com/data/cover/122/121626.jpg",
+        "singer": "Bích Phương",
+        "composer": "Tiên Cookie",
+        "album": "Một Cú Lừa (Single)",
+        "release_year": "2020"
+    },
+    {
+        "id": 4,
+        "name": "Tình Anh",
+        "country": "VN",
+        "link": "https://data25.chiasenhac.com/downloads/2089/4/2088561-7529faff/128/Tinh%20Anh%20-%20Dinh%20Dung.mp3",
+        "image": "https://data.chiasenhac.com/data/cover/122/121072.jpg",
+        "singer": "Đình Dũng",
+        "composer": "Đình Dũng",
+        "album": "Tình Anh (Single)",
+        "release_year": "2020"
+    },
+    {
+        "id": 5,
+        "name": "Yêu Thì Yêu Không Yêu Thì Yêu",
+        "country": "VN",
+        "link": "https://data25.chiasenhac.com/downloads/2096/4/2095586-974e369e/128/Yeu%20Thi%20Yeu%20Khong%20Yeu%20Thi%20Yeu%20-%20AMEE.mp3",
+        "image": "https://data.chiasenhac.com/data/cover/123/122486.jpg",
+        "singer": "AMEE",
+        "composer": "Hứa Kim Tuyền; T.R.I",
+        "album": "Yêu Thì Yêu Không Yêu Thì Yêu (Single)",
+        "release_year": "2020"
+    },
+    {
+        "id": 6,
+        "name": "em bỏ hút thuốc chưa?",
+        "country": "VN",
+        "link": "https://data25.chiasenhac.com/downloads/2088/4/2087408-fc2ca435/128/em%20bo%20hut%20thuoc%20chua_%20-%20Bich%20Phuong_%20tra.mp3",
+        "image": "https://data.chiasenhac.com/data/cover/121/120803.jpg",
+        "singer": "Bích Phương; traitimtrongvang",
+        "composer": "Tiên Cookie, DuongK",
+        "album": "tâm trạng tan hơi chậm một chút - EP",
+        "release_year": "2020"
+    },
+    {
+        "id": 7,
+        "name": "Cứ Thế Rời Xa",
+        "country": "VN",
+        "link": "https://data25.chiasenhac.com/downloads/2096/4/2095953-a84cf9a6/128/Cu%20The%20Roi%20Xa%20-%20Yen%20Tatoo_%20Great.mp3",
+        "image": "https://data.chiasenhac.com/data/cover/123/122570.jpg",
+        "singer": "Yến Tatoo; Great",
+        "composer": "Yến Tatoo",
+        "album": "Cứ Thế Rời Xa (Single)",
+        "release_year": "2020"
+    },
+    {
+        "id": 8,
+        "name": "Cho Anh Say",
+        "country": "VN",
+        "link": "https://data25.chiasenhac.com/downloads/2095/4/2094757-c5acebe1/128/Cho%20Anh%20Say%20-%20Phan%20Duy%20Anh.mp3",
+        "image": "https://data.chiasenhac.com/data/cover/123/122323.jpg",
+        "singer": "Phan Duy Anh",
+        "composer": "Thiện Ngôn",
+        "album": "Cho Anh Say (Single)",
+        "release_year": "2020"
+    },
+    {
+        "id": 9,
+        "name": "Không Thể Cùng Nhau Suốt Kiếp",
+        "country": "VN",
+        "link": "https://data25.chiasenhac.com/downloads/2087/4/2086258-f53f2eed/128/Khong%20The%20Cung%20Nhau%20Suot%20Kiep%20-%20Hoa%20Minz.mp3",
+        "image": "https://data.chiasenhac.com/data/cover/121/120610.jpg",
+        "singer": "Hoà Minzy; Mr Siro",
+        "composer": "Mr Siro",
+        "album": "Không Thể Cùng Nhau Suốt Kiếp (Single)",
+        "release_year": "2020"
+    },
+    {
+        "id": 10,
+        "name": "Muốn Nói Với Em",
+        "country": "VN",
+        "link": "https://data25.chiasenhac.com/downloads/2093/4/2092917-f7af2710/128/Muon%20Noi%20Voi%20Em%20-%20T%20Team.mp3",
+        "image": "https://data.chiasenhac.com/data/cover/122/121953.jpg",
+        "singer": "T Team",
+        "composer": "T Team",
+        "album": "Muốn Nói Với Em (Single)",
+        "release_year": "2020"
+    },
+    {
+        "id": 11,
+        "name": "Một Giấc Mơ",
+        "country": "VN",
+        "link": "https://data25.chiasenhac.com/downloads/2096/4/2095730-af6b60a7/128/Mot%20Giac%20Mo%20-%20Vu_%20Kimmese.mp3",
+        "image": "https://data.chiasenhac.com/data/cover/123/122523.jpg",
+        "singer": "Vũ; Kimmese",
+        "composer": "",
+        "album": "Một Giấc Mơ (Single)",
+        "release_year": "2020"
+    },
+    {
+        "id": 12,
+        "name": "Cung Đàn Vỡ Đôi",
+        "country": "VN",
+        "link": "https://data25.chiasenhac.com/downloads/2092/4/2091948-17712a46/128/Cung%20Dan%20Vo%20Doi%20-%20Chi%20Pu.mp3",
+        "image": "https://data.chiasenhac.com/data/cover/122/121780.jpg",
+        "singer": "Chi Pu",
+        "composer": "Kiên",
+        "album": "Cung Đàn Vỡ Đôi (Single)",
+        "release_year": "2020"
+    },
+    {
+        "id": 13,
+        "name": "Đau Vậy Đủ Rồi",
+        "country": "VN",
+        "link": "https://data25.chiasenhac.com/downloads/2093/4/2092746-6768c272/128/Dau%20Vay%20Du%20Roi%20-%20Karik_%20Vu%20Phung%20Tien.mp3",
+        "image": "https://data.chiasenhac.com/data/cover/122/121926.jpg",
+        "singer": "Karik; Vũ Phụng Tiên",
+        "composer": "Karik",
+        "album": "Đau Vậy Đủ Rồi (Single)",
+        "release_year": "2020"
+    },
+    {
+        "id": 14,
+        "name": "Buồn Làm Chi Em Ơi",
+        "country": "VN",
+        "link": "https://data25.chiasenhac.com/downloads/2095/4/2094339-60f8aa64/128/Buon%20Lam%20Chi%20Em%20Oi%20-%20Hoai%20Lam.mp3",
+        "image": "https://data.chiasenhac.com/data/cover/123/122227.jpg",
+        "singer": "Hoài Lâm",
+        "composer": "Nguyễn Minh Cường",
+        "album": "Buồn Làm Chi Em Ơi (Single)",
+        "release_year": "2020"
+    },
+    {
+        "id": 15,
+        "name": "Giàu Sang",
+        "country": "VN",
+        "link": "https://data25.chiasenhac.com/downloads/2097/4/2096882-37034812/128/Giau%20Sang%20-%20Rhymastic.mp3",
+        "image": "https://data.chiasenhac.com/data/cover/123/122779.jpg",
+        "singer": "Rhymastic",
+        "composer": "Rhymastic",
+        "album": "Giàu Sang (Single)",
+        "release_year": "2020"
+    },
+    {
+        "id": 16,
+        "name": "Tại Sao Không Nói",
+        "country": "VN",
+        "link": "https://data25.chiasenhac.com/downloads/2097/4/2096407-277c46f3/128/Tai%20Sao%20Khong%20Noi%20-%20Huynh%20James_%20Pjnboys.mp3",
+        "image": "https://data.chiasenhac.com/data/cover/123/122672.jpg",
+        "singer": "Huỳnh James; Pjnboys",
+        "composer": "Huỳnh James, Pjnboys",
+        "album": "Tại Sao Không Nói (Single)",
+        "release_year": "2020"
+    },
+    {
+        "id": 17,
+        "name": "Một Cú Lừa (Đu Đưa Version)",
+        "country": "VN",
+        "link": "https://data25.chiasenhac.com/downloads/2093/4/2092488-2092cc14/128/Mot%20Cu%20Lua%20Du%20Dua%20Version_%20-%20Bich%20Phuong.mp3",
+        "image": "https://data.chiasenhac.com/data/cover/122/121881.jpg",
+        "singer": "Bích Phương",
+        "composer": "Tiên Cookie",
+        "album": "Một Cú Lừa (Đu Đưa Version) (Single)",
+        "release_year": "2020"
+    },
+    {
+        "id": 18,
+        "name": "Chỉ Có Thể Là Yêu",
+        "country": "VN",
+        "link": "https://data25.chiasenhac.com/downloads/2097/4/2096856-77e0bd3f/128/Chi%20Co%20The%20La%20Yeu%20-%20Tuan%20Hung.mp3",
+        "image": "https://data.chiasenhac.com/data/cover/123/122771.jpg",
+        "singer": "Tuấn Hưng",
+        "composer": "",
+        "album": "Chỉ Có Thể Là Yêu (Single)",
+        "release_year": "2020"
+    },
+    {
+        "id": 19,
+        "name": "Vẫn Nhớ",
+        "country": "VN",
+        "link": "https://data25.chiasenhac.com/downloads/2084/4/2083594/128/Van%20Nho%20-%20Soobin%20Hoang%20Son.mp3",
+        "image": "https://data.chiasenhac.com/data/artist_avatar/1/617.jpg",
+        "singer": "Soobin Hoàng Sơn",
+        "composer": "Jimmii Nguyễn",
+        "album": "",
+        "release_year": "2020"
+    },
+    {
+        "id": 20,
+        "name": "Ăn Sáng Nha",
+        "country": "VN",
+        "link": "https://data25.chiasenhac.com/downloads/2092/4/2091940-34d0782a/128/An%20Sang%20Nha%20-%20ERIK_%20Suni%20Ha%20Linh.mp3",
+        "image": "https://data.chiasenhac.com/data/cover/122/121772.jpg",
+        "singer": "ERIK; Suni Hạ Linh",
+        "composer": "Khắc Hưng",
+        "album": "Ăn Sáng Nha (Single)",
+        "release_year": "2020"
+    }
+]
